@@ -18,6 +18,10 @@
 
 ![Leonel Holguin's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LeonelHolguin&layout=compact&theme=tokyonight&langs_count=10)
 
+### 📫 How to reach me:
+
+&nbsp;&nbsp;[![My contact](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/leonel-holgu%C3%ADn/)
+
 <!--
 **LeonelHolguin/LeonelHolguin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
