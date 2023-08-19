@@ -1,6 +1,18 @@
 ### Hi there 👋
 
+# Skills
 
+## Frontend
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,vue,mui,html,css,sass,bootstrap,figma&perline=10)](https://skillicons.dev)
+
+## Backend
+[![My Skills](https://skillicons.dev/icons?i=js,nodejs,firebase,c#,.net,postman&perline=10)](https://skillicons.dev)
+
+## Databases
+[![My Skills](https://skillicons.dev/icons?i=sql,sqlite&perline=10)](https://skillicons.dev)
+
+## Dev tools
+[![My Skills](https://skillicons.dev/icons?i=vite,github,vscode,git,bash,vercel&perline=10)](https://skillicons.dev)
 
 &nbsp;
 
