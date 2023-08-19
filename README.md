@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+
+
+&nbsp;
+
+![Leonel Holguin's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LeonelHolguin&layout=compact&theme=tokyonight&langs_count=10)
+
 <!--
 **LeonelHolguin/LeonelHolguin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
